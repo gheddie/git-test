@@ -8,4 +8,11 @@
 		<artifactId>project-main</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
+	<dependencies>
+		<dependency>
+			<groupId>de.gravitex.test</groupId>
+			<artifactId>project-b</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+	</dependencies>
 </project>
